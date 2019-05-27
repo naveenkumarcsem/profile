@@ -1,0 +1,54 @@
+*{
+	padding:0;
+	margin:0;
+
+}
+#background{
+    width: 100%;
+    height: 653px;;
+}
+#top{
+	top: 0;	
+	position: absolute;
+	height: 300px;
+	width: 300px;
+	margin-left: 382px;
+	
+	top: 180px;
+	margin-right:200px;
+border-radius: 50%;
+}
+.fonts
+{
+    left: 40%;
+    top: 85%;
+	position: absolute;
+ 
+}
+.fa-twitter{
+    padding:29px;
+    color:skyblue;
+}
+.fa-facebook{
+    padding:29px;
+    color: darkblue;
+}
+.fa-linkedin{
+    padding:29px;
+    color:white;
+    
+    
+}
+.fa-instagram
+{
+    padding:px;
+    color: mistyrose;
+}
+.text
+{
+    left:45%;
+    top:77%;
+    position: absolute;
+
+    color: white;
+}
